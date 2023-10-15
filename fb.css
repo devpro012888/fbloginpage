@@ -1,0 +1,21 @@
+h1 {
+    font-family: Ruda;
+    font-weight: bold;
+    font-size: 80px;
+    color: blue;
+}
+
+h2 {
+    font-family: Ruda;
+}
+
+form {
+    width: 500px;
+    float: right;
+    border: 1px solid black;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}

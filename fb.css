@@ -2,20 +2,37 @@ h1 {
     font-family: Ruda;
     font-weight: bold;
     font-size: 80px;
-    color: blue;
+    color: #3b5998;
+    margin-top: 250px;
 }
 
 h2 {
+    margin-top: -60px;
     font-family: Ruda;
 }
 
 form {
-    width: 500px;
+    width: 400px;
+    height: 400px;
     float: right;
     border: 1px solid black;
+    position: relative;
+    margin-top: -250px;
+    background-color: white;
+    border-radius: 15px;
 }
 
 body {
     width: 1000px;
     margin: 0 auto;
+    background-color: #e9ebee;
+}
+
+.text {
+    width: 250px;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
 }
